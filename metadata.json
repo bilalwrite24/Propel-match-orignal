@@ -1,0 +1,6 @@
+{
+  "name": "PropelMatch AI Lead Finder",
+  "description": "AI-powered B2B lead generation agent with real-time web discovery, explainable ICP qualification scoring, high-volume CSV import, deduplication, and personalized outreach generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
